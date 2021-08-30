@@ -1,20 +1,19 @@
-<h1 align='center'>🙋‍♂️ Hey, I'm Nils</h1>
+<h1 align="center">🙋‍♂️ Hey, I'm Nils</h1>
 
 
 
 <p>I enjoy programming and learning new skills and abilities. I am constantly looking to improve my knowledge and make new experiences.</p>
 
-
 <div>
 
 > 💻 I'm currently working on a [Discord bot](https://github.com/NilsPvR/Luma) using the JavaScrupt library [discord.js](https://github.com/discordjs/discord.js)<br>
->  📚 I'm currently learning **JavaScript** <img style="vertical-align: middle" height="20px" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" /><br>
-> ❤ I would love to get a **dual study in Computer Science**<br>
-
+>  📚 I'm currently learning **JavaScript** <img style="vertical-align: middle" src="https://img.shields.io/badge/-5D4F3A?style=flat&logo=JavaScript" /><br>
+> ❤ I would love to get a **dual study in Computer Science**
 <br>
 
-## Contact me<br> <img style="vertical-align: middle" src="https://img.shields.io/badge/Discord-Metzok%236146-7289DA?style=for-the-badge&logo=discord&labelColor=2C2F33">
-<br>
+## Contact me
+
+<img style="vertical-align: middle; margin-bottom: 15px; margin-top: 5px" src="https://img.shields.io/badge/Discord-Metzok%236146-7289DA?style=for-the-badge&logo=discord&labelColor=2C2F33">
 
 ## Languages and Tools
 
@@ -29,7 +28,6 @@
 ![CSS](https://img.shields.io/badge/CSS-5D4F3A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5D4F3A?style=flat&logo=bootstrap)&nbsp;
 ![Kirby](https://img.shields.io/badge/Kirby-5D4F3A?style=flat&logo=kirby)&nbsp;
-<br>
 
 ## My Stats
 
