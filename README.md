@@ -9,7 +9,6 @@
 > 💻 I'm currently working on a [Discord bot](https://github.com/NilsPvR/Luma) using the JavaScrupt library [discord.js](https://github.com/discordjs/discord.js)<br>
 >  📚 I'm currently learning **JavaScript** <img style="vertical-align: middle" src="https://img.shields.io/badge/-5D4F3A?style=flat&logo=JavaScript" /><br>
 > ❤ I would love to get a **dual study in Computer Science**
-<br>
 
 ## Contact me
 
