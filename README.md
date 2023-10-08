@@ -18,10 +18,10 @@
 
 <h2 align="center">Languages and Tools</h2>
 <div align="center">  
-  <a href="https://github.com/" target="_blank" ref="noreferrer">
+  <a href="https://github.com/NilsPvR" target="_blank" ref="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="40" height="40"/>
   </a>
-  <a href="https://about.gitlab.com/" target="_blank" ref="noreferrer">
+  <a href="https://gitlab.com/NilsPvR" target="_blank" ref="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab Logo" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" ref="noreferrer">
