@@ -12,8 +12,14 @@
 <h2 align="center">Contact me</h2>
 <div align="center">
   <picture>
-    <img src="https://img.shields.io/badge/Discord-@metzok-7289DA?style=for-the-badge&logo=discord&labelColor=2C2F33" alt="Discord Logo. Written next to it: @metzok.">
+    <img src="https://img.shields.io/badge/Discord-@nilspvr-7289DA?style=for-the-badge&logo=discord&labelColor=2C2F33" alt="Discord Logo. Written next to it: @nilspvr">
   </picture>
+  <picture><img width=20px></picture>
+  <a href="mailto:nilspvr@pm.me">
+    <picture>
+      <img src="https://img.shields.io/badge/Mail-nilspvr@pm.me-6D4AFF?style=for-the-badge&logo=protonmail&labelColor=1b1340" alt="ProtonMail Logo. Written next to it: nilspvr@pm.me">
+    </picture>
+  </a>
 </div>
 
 <h2 align="center">Languages and Tools</h2>
